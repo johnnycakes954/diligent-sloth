@@ -38,4 +38,5 @@ fields:
   config:
     required: true
 pages:
+- content/about.md
 - content/generic.md
